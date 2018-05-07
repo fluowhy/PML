@@ -1,2 +1,0 @@
-# PML
-Probabilistic machine learning
